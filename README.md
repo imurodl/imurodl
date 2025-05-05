@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Murod (Max) Mirzaliyev
+# 👋 Hi, I'm Murod Mirzaliyev
 
 I'm a full-stack web developer based in South Korea, originally from Uzbekistan.  
 Currently studying I am actively focused on software development, system design, and building production-ready applications.
