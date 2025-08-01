@@ -1,52 +1,81 @@
 # 👋 Hi, I'm Murod Mirzaliyev
 
-I'm a full-stack web developer based in South Korea, originally from Uzbekistan.  
-Currently studying I am actively focused on software development, system design, and building production-ready applications.
+I'm a full-stack web developer from Uzbekistan, currently working as a software developer in Seoul.  
+I specialize in building scalable, production-ready applications using modern web technologies.
 
 ---
 
 ## 💻 Tech Stack
 
 - **Frontend**: React, Next.js, TypeScript, Redux Toolkit
-- **Backend**: Express.js, NestJS, RESTful APIs, GraphQL
-- **Database**: MongoDB, Mongoose
+- **Backend**: NestJS, Express.js, GraphQL, RESTful APIs
+- **Database**: MongoDB (Mongoose), SQL (PostgreSQL, MySQL)
 - **Styling**: Tailwind CSS, SCSS, Material UI
-- **Tools**: Postman, Git, GitHub, VS Code
-- **Deployment**: Render, GitHub Pages, Netlify
+- **Tools**: Git, GitHub, Postman, VS Code, Figma
+- **Dev & Deploy**: Docker, Render, Vercel, GitHub Pages
 
 ---
 
 ## 🛠 Projects
 
-### 🔹 [Amaya](https://amaya.onrender.com/admin)
-RESTful backend built with **Express.js** and **MongoDB** for an e-commerce platform  
-→ Includes JWT auth, product/order management, image uploads, and admin roles  
-→ [Frontend](https://imurodl.github.io/coffee-react) developed with **React + Redux Toolkit**
+### 🔹 [Solven](http://solven.uz)
+A modern car listing platform with advanced filtering and mobile/desktop layouts  
+→ Built with **NestJS**, **GraphQL**, **MongoDB**, and **JWT Auth**  
+→ Image uploads, location-based filtering, role-based access control  
+→ Frontend uses **Next.js**, **MUI**, and device-specific UI components
 
-### 🔹 Harubrew
-An earlier version of the Amaya concept focused on coffee tools and drinks  
-→ Built with EJS templates, custom admin panel, product variations, and cart modal logic  
-→ Served as my first full-stack learning milestone
+### 🔹 [Amaya](http://amaya.uz)
+An e-commerce backend platform for managing coffee products and orders  
+→ Built using **Express.js**, **MongoDB**, and **JWT-based authentication**  
+→ Includes product variation handling, image uploads, and admin roles  
+→ [Frontend](https://imurodl.github.io/coffee-react) built with **React + Redux Toolkit**
+
+### 🔹 Harubrew  
+My first full-stack e-commerce concept using EJS templating  
+→ Custom admin panel, product variations, and cart modal logic  
+→ Focused on coffee tools and drink categories
 
 ---
 
 ## 🧠 About Me
 
-- Strong foundation in **backend architecture** and **React-based frontend development**
-- Focused on writing **clean, maintainable code** with consistent structure
-- Self-motivated, deadline-driven, and continuously improving through real-world projects
+- Focused on building **robust backend systems** and **clean frontend interfaces**
+- Writing **maintainable**, **scalable**, and **testable** code
+- Continuously learning through building real-world applications
 
 ---
 
-## 🌱 Currently Exploring
+## 🚀 Currently Learning
 
-- Advanced backend architecture with **NestJS** and scalable service patterns
-- Improving database modeling and performance with **MongoDB** and **Mongoose**
-- Learning core concepts in **AI** and how to apply them in full-stack workflows
+- **Java** and **Spring Boot** for enterprise-level backend systems
+- **SQL** with relational database modeling
+- Advanced **GraphQL API** patterns and performance tuning
+
+---
+
+## 🧰 Skills
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="GraphQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+</p>
 
 ---
 
 ## 📫 Contact
 
-- GitHub: [@imurodl](https://github.com/imurodl)
-- Email: `murodlearns [at] gmail.com`
+- GitHub: [@imurodl](https://github.com/imurodl)  
+- Email: `murodlearns [at] gmail.com`  
+- Portfolio: [solven.uz](http://solven.uz) | [amaya.uz](http://amaya.uz)
