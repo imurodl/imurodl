@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Murod Mirzaliyev
+# 👋 Hi, I'm Max
 
 I'm a full-stack web developer from Uzbekistan, currently working as a software developer in Seoul.  
 I specialize in building scalable, production-ready applications using modern web technologies.
