@@ -28,7 +28,7 @@ A modern car listing platform with advanced filtering and mobile/desktop layouts
 An e-commerce backend platform for managing coffee products and orders  
 → Built using **Express.js**, **MongoDB**, and **JWT-based authentication**  
 → Includes product variation handling, image uploads, and admin roles  
-→ [Frontend](https://imurodl.github.io/coffee-react) built with **React + Redux Toolkit**
+→ Frontend built with **React + Redux Toolkit**
 
 ### 🔹 Harubrew  
 My first full-stack e-commerce concept using EJS templating  
