@@ -6,10 +6,10 @@ I build production-ready applications with JavaScript, TypeScript, React, Next.j
 
 ## Project
 **Solven** — modern car listing platform
-https://solven.uz
+- https://solven.uz
 
 ## Website
-https://imurodl.me
+- https://imurodl.me
 
 ## Contact
 Telegram: https://t.me/imurodl
