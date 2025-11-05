@@ -5,7 +5,7 @@ Full-stack web developer based in Seoul.
 I build production-ready applications with JavaScript, TypeScript, React, Next.js, and NestJS
 
 ## Project
-**Solven** — modern car listing platform 
+**Solven** — modern car listing platform
 https://solven.uz
 
 ## Website
