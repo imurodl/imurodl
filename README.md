@@ -12,4 +12,4 @@ I build production-ready applications with JavaScript, TypeScript, React, Next.j
 - https://imurodl.me
 
 ## Contact
-Telegram: https://t.me/imurodl
+- https://t.me/imurodl
