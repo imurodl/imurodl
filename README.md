@@ -1,4 +1,4 @@
-  # Hey, I'm Max
+  # Hey, I'm Murod
 
   Full Stack Developer in Seoul, building AI-powered platforms and scalable backend systems.
 
